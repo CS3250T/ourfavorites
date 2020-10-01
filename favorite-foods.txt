@@ -8,3 +8,5 @@ sushi
 noodle
 
 iced
+spicy
+cold food
