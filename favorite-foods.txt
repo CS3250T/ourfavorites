@@ -8,3 +8,4 @@ sushi
 noodle
 
 iced
+spicy
